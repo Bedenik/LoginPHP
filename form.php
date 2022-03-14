@@ -14,6 +14,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css"></link>
+    
     <title>SignUP form</title>
 </head>
 <body>
@@ -34,9 +35,11 @@
             <br>
             <hr>
             <br>
-         <button type="submit" name="submit" class="btn">Sign Up</button>
+         <button type="submit" name="submit" class="b_input">Sign Up</button>
          </fieldset>
-            
-        </form>
+         <br>  
+         <a href="/loginstudy/login.php"><button type="button">Back</button></a>         
+         
+         </form>
 </body>
 </html>
